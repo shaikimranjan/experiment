@@ -1,0 +1,68 @@
+
+Skip to content
+[Jenkins]Jenkins
+Search (CTRL+K)
+shaik imran jan
+
+log out
+Dashboard
+Manage Jenkins
+New Item
+People
+Build History
+Project Relationship
+Check File Fingerprint
+Manage Jenkins
+My Views
+Build Queue
+No builds in the queue.
+Build Executor Status
+1	Idle		
+2	Idle		
+Manage Jenkins
+System Configuration
+Configure System
+Configure global settings and paths.
+Global Tool Configuration
+Configure tools, their locations and automatic installers.
+4
+Manage Plugins
+Add, remove, disable or enable plugins that can extend the functionality of Jenkins.
+Manage Nodes and Clouds
+Add, remove, control and monitor the various nodes that Jenkins runs jobs on.
+Install as Windows Service
+Installs Jenkins as a Windows service to this system, so that Jenkins starts automatically when the machine boots.
+Security
+Configure Global Security
+Secure Jenkins; define who is allowed to access/use the system.
+Manage Credentials
+Configure credentials
+Configure Credential Providers
+Configure the credential providers and types
+
+Manage and Assign Roles
+Handle permissions by creating roles and assigning them to users/groups
+Manage Users
+Create/delete/modify users that can log in to this Jenkins.
+Status Information
+System Information
+Displays various environmental information to assist trouble-shooting.
+System Log
+System log captures output from java.util.logging output related to Jenkins.
+Load Statistics
+Check your resource utilization and see if you need more computers for your builds.
+About Jenkins
+See the version and license information.
+Troubleshooting
+Manage Old Data
+Scrub configuration files to remove remnants from old plugins and earlier versions.
+Tools and Actions
+Reload Configuration from Disk
+Discard all the loaded data in memory and reload everything from file system. Useful when you modified config files directly on disk.
+Jenkins CLI
+Access/manage Jenkins from your shell, or from your script.
+Script Console
+Executes arbitrary script for administration/trouble-shooting/diagnostics.
+Prepare for Shutdown
+Stops executing new builds, so that the system can be eventually shut down safely.
+Jenkins 2.361.2
